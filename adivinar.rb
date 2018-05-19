@@ -1,4 +1,4 @@
-	$rand = rand(1..10)
+$rand = rand(1..10)
 GANADOR = $rand
 def adivinar
 	puts "Adivina el numero del 1 al 10"
